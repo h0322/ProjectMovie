@@ -23,13 +23,11 @@ namespace HH.ProjectMovie.Service
         {
             this._videoRepository = videoRepository;
         }
-        public VideoPullModel GetVideoInfoByName(string name)
-        {
-            string url = string.Format(Constant.movieInterfaceUrl, Constant.movieInterfaceAppKey, name);
-            string result = NetHelper.Get(url);
-            var model = JsonConvert.DeserializeObject<VideoPullModel>(result);
-            return model;
-        }
+        //public VideoPullModel GetVideoInfoByName(string name)
+        //{
+
+        //    return videoPullModel;
+        //}
         public ResultType InsertVideo(VideoModel model)
         {
             try

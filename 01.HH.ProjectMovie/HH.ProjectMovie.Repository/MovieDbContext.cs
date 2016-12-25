@@ -27,6 +27,7 @@ namespace HH.ProjectMovie.Repository
             modelBuilder.Configurations.Add(new MappingTableBase<VideoImageEntity>());
             modelBuilder.Configurations.Add(new MappingTableBase<VideoPlayerEntity>());
             modelBuilder.Configurations.Add(new MappingTableBase<VideoTagEntity>());
+            modelBuilder.Configurations.Add(new MappingTableBase<VideoEntity>());
             base.OnModelCreating(modelBuilder);
         }
         public void Dispose()
