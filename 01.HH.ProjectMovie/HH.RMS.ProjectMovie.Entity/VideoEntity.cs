@@ -18,7 +18,7 @@ namespace HH.ProjectMovie.Entity
         public string title { get; set; }
         [MaxLength(500)]
         public string otherTitle { get; set; }
-        public decimal videoTag { get; set; }
+        public long videoTag { get; set; }
         [MaxLength(1000)]
         public string actor { get; set; }
         [MaxLength(1000)]

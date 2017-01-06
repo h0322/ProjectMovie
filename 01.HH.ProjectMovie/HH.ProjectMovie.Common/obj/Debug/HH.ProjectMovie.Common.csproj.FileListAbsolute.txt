@@ -26,3 +26,13 @@ D:\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debu
 D:\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
 D:\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\Newtonsoft.Json.dll
 D:\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\HH.ProjectMovie.Common.dll
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\HH.ProjectMovie.Common.pdb
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\HH.RMS.Common.dll
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\log4net.dll
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\Newtonsoft.Json.dll
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\obj\Debug\HH.ProjectMovie.Common.dll
+F:\Henry\My Program\HH.ProjectMovie\01.HH.ProjectMovie\HH.ProjectMovie.Common\obj\Debug\HH.ProjectMovie.Common.pdb

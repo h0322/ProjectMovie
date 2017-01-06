@@ -16,7 +16,7 @@ namespace HH.ProjectMovie.UnitTest
         [TestMethod]
         public void GetVideoInfoByName()
         {
-            _videoService.GetVideoInfoByName("撒娇女人最好命");
+           // _videoService.GetVideoInfoByName("撒娇女人最好命");
         }
     }
 }

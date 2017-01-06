@@ -13,7 +13,7 @@ namespace HH.ProjectMovie.Service.Model
     {
         public string tagName { get; set; }
         public string description { get; set; }
-        public decimal tagNum { get; set; }
+        public long bitMap { get; set; }
         public static T ModelMapper<T>(object entity)
         {
             return TinyMapper.Map<T>(entity);

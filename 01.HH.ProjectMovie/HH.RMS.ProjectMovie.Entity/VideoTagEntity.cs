@@ -15,6 +15,6 @@ namespace HH.ProjectMovie.Entity
         [MaxLength(50)]
         public string tagName { get; set; }
         public string description { get; set; }
-        public decimal tagNum { get; set; }
+        public long bitMap { get; set; }
     }
 }

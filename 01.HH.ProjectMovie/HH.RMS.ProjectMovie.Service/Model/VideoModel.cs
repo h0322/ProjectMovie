@@ -14,7 +14,7 @@ namespace HH.ProjectMovie.Service.Model
         public long id { get; set; }
         public string title { get; set; }
         public string otherTitle { get; set; }
-        public decimal videoTag { get; set; }
+        public long videoTag { get; set; }
         public string tag { get; set; }
          [JsonProperty(PropertyName = "act")]
         public string actor { get; set; }

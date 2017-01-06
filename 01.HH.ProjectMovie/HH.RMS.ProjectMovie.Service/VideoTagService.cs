@@ -21,11 +21,29 @@ namespace HH.ProjectMovie.Service
         {
             _videoTagRepository = videoTagRepository;
         }
-        public ResultType InsertTag(string tag)
+        public long InsertTag(string tag)
         {
+            long maxBitMap = 0;
+            long bitMap = 0;
             string[] tagArray = tag.Split('/');
-
-            return ResultType.Success;
+            foreach(var item in tagArray)
+            {
+                VideoTagModel model = QueryVideoTagByName(item);
+                if(model==null)
+                {
+                    using (var db = new MovieDbContext())
+                    {
+                       maxBitMap = _videoTagRepository.Query(db).Max(m => m.bitMap);
+                    }
+                    model = new VideoTagModel();
+                    model.tagName = item;
+                    model.bitMap = maxBitMap * 2;
+                    InsertTag(model);
+                }
+                bitMap = bitMap + model.bitMap;
+            }
+            return bitMap;
+            
         }
         public ResultType InsertTag(VideoTagModel model)
         {
