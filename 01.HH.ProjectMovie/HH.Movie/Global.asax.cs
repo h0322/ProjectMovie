@@ -1,4 +1,5 @@
-﻿using HH.RMS.Common.Unity;
+﻿using HH.Movie.App_Start;
+using HH.RMS.Common.Unity;
 using HH.RMS.Service;
 using System;
 using System.Collections.Generic;
@@ -17,7 +18,7 @@ namespace HH.Movie
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
-            new VideoUnityService(UnityManager.instance);
+            new ServiceConfig(UnityManager.instance);
             WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

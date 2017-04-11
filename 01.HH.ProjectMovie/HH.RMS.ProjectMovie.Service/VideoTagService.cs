@@ -1,6 +1,5 @@
 ﻿using HH.ProjectMovie.Entity;
 using HH.ProjectMovie.Repository;
-using HH.ProjectMovie.Repository.Interface;
 using HH.ProjectMovie.Service.Interface;
 using HH.ProjectMovie.Service.Model;
 using HH.RMS.Common.Constant;
@@ -16,8 +15,8 @@ namespace HH.ProjectMovie.Service
 {
     public class VideoTagService : IVideoTagService
     {
-        private IMovieRepository<VideoTagEntity> _videoTagRepository { get; set; }
-        public VideoTagService(IMovieRepository<VideoTagEntity> videoTagRepository)
+        private IRepository<VideoTagEntity> _videoTagRepository { get; set; }
+        public VideoTagService(IRepository<VideoTagEntity> videoTagRepository)
         {
             _videoTagRepository = videoTagRepository;
         }

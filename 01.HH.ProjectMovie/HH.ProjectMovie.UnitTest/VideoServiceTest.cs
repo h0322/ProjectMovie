@@ -1,7 +1,7 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using HH.ProjectMovie.Service.Interface;
 using HH.RMS.Common.Unity;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace HH.ProjectMovie.UnitTest
 {

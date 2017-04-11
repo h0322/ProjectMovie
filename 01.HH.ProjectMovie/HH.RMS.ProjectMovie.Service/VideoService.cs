@@ -12,14 +12,13 @@ using HH.RMS.Common.Utilities;
 using Newtonsoft.Json;
 using HH.ProjectMovie.Service.Model;
 using HH.ProjectMovie.Repository;
-using HH.ProjectMovie.Repository.Interface;
 
 namespace HH.ProjectMovie.Service
 {
     public class VideoService : IVideoService
     {
-        private IMovieRepository<VideoEntity> _videoRepository { get; set; }
-        public VideoService(IMovieRepository<VideoEntity> videoRepository)
+        private IRepository<VideoEntity> _videoRepository { get; set; }
+        public VideoService(IRepository<VideoEntity> videoRepository)
         {
             this._videoRepository = videoRepository;
         }

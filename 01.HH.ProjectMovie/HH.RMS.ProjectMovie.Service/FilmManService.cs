@@ -1,9 +1,9 @@
 ﻿using HH.ProjectMovie.Entity;
 using HH.ProjectMovie.Repository;
-using HH.ProjectMovie.Repository.Interface;
 using HH.ProjectMovie.Service.Interface;
 using HH.ProjectMovie.Service.Model;
 using HH.RMS.Common.Constant;
+using HH.RMS.Repository.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,8 +14,8 @@ namespace HH.ProjectMovie.Service
 {
     public class FilmManService : IFilmManService
     {
-        private IMovieRepository<FilmManEntity> _filmManRepository { get; set; }
-        public FilmManService(IMovieRepository<FilmManEntity> filmManRepository)
+        private IRepository<FilmManEntity> _filmManRepository { get; set; }
+        public FilmManService(IRepository<FilmManEntity> filmManRepository)
         {
             this._filmManRepository = filmManRepository;
         }
