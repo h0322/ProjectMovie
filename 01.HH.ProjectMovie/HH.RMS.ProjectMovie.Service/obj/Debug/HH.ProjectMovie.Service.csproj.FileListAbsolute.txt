@@ -160,3 +160,4 @@ D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Service\bin\De
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Service\bin\Debug\HH.ProjectMovie.IService.pdb
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Service\bin\Debug\HH.ProjectMovie.Entity.pdb
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Service\bin\Debug\HH.ProjectMovie.Service.pdb
+D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Service\bin\Debug\HH.RMS.EntityFramework.dll

@@ -50,6 +50,10 @@
       <HintPath>..\packages\HH.RMS.Entity.1.0.0\lib\net451\HH.RMS.Entity.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="HH.RMS.EntityFramework, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HH.RMS.Entity.1.0.0\lib\net451\HH.RMS.EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="HH.RMS.Repository, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\HH.RMS.Entity.1.0.0\lib\net451\HH.RMS.Repository.dll</HintPath>
       <Private>True</Private>

@@ -30,3 +30,4 @@ D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.IService\bin\Debug
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.IService\bin\Debug\HH.ProjectMovie.Common.pdb
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.IService\obj\Debug\HH.ProjectMovie.IService.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.IService\obj\Debug\HH.ProjectMovie.IService.pdb
+D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.IService\bin\Debug\HH.RMS.EntityFramework.dll

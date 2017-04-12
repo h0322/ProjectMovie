@@ -85,7 +85,6 @@ D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\Microsoft.Practices.U
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\Microsoft.Practices.Unity.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\Microsoft.Web.Infrastructure.dll
-D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\Newtonsoft.Json.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\NPOI.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\NPOI.OOXML.dll
@@ -126,3 +125,4 @@ D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\zh-Hans\System.Web.We
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\obj\Debug\HH.Movie.pdb
+D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.Movie\bin\HH.RMS.EntityFramework.dll

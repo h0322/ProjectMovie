@@ -1,4 +1,6 @@
-﻿using HH.RMS.Common.Unity;
+﻿using HH.ProjectMovie.Service;
+using HH.ProjectMovie.Service.Interface;
+using HH.RMS.Common.Unity;
 using HH.RMS.IService;
 using HH.RMS.IService.Location;
 using HH.RMS.IService.Scheduler;
@@ -61,6 +63,15 @@ namespace HH.Movie.App_Start
             unityManager.RegisterType<IWechatReceiveService, WechatReceiveService>();
             unityManager.RegisterType<IWechatUserService, WechatUserService>();
             unityManager.RegisterType<IWechatRequestService, WechatRequestService>();
+            #endregion
+            #region
+            unityManager.RegisterType<IFilmManImageService, FilmManImageService>();
+            unityManager.RegisterType<IFilmManService, FilmManService>();
+            unityManager.RegisterType<IVideoActorService, VideoActorService>();
+            unityManager.RegisterType<IVideoImageService, VideoImageService>();
+            unityManager.RegisterType<IVideoPlayerService, VideoPlayerService>();
+            unityManager.RegisterType<IVideoService, VideoService>();
+            unityManager.RegisterType<IVideoTagService, VideoTagService>();
             #endregion
         }
         public virtual void ContorllerRegister()

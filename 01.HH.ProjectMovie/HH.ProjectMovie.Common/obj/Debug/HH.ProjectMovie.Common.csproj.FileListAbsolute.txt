@@ -56,3 +56,4 @@ D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\N
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\NPOI.OOXML.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\NPOI.OpenXml4Net.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.Common\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.ProjectMovie.Common\obj\Debug\HH.ProjectMovie.Common.csprojResolveAssemblyReference.cache

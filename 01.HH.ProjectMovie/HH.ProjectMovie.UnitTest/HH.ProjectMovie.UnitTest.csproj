@@ -63,6 +63,10 @@
       <HintPath>..\packages\HH.RMS.Service.1.0.0\lib\net451\HH.RMS.Entity.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="HH.RMS.EntityFramework, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HH.RMS.Entity.1.0.0\lib\net451\HH.RMS.EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="HH.RMS.IService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\HH.RMS.Service.1.0.0\lib\net451\HH.RMS.IService.dll</HintPath>
       <Private>True</Private>
@@ -129,6 +133,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Web" />
     <Reference Include="TinyMapper, Version=2.0.0.40, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\HH.RMS.Service.1.0.0\lib\net451\TinyMapper.dll</HintPath>

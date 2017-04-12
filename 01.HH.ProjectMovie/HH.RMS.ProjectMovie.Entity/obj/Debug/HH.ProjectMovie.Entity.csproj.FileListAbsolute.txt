@@ -94,3 +94,4 @@ D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Entity\bin\Deb
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Entity\obj\Debug\HH.ProjectMovie.Entity.dll
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Entity\obj\Debug\HH.ProjectMovie.Entity.pdb
 D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Entity\obj\Debug\HH.ProjectMovie.Entity.csprojResolveAssemblyReference.cache
+D:\My Program\HH.RMS.Movie\01.HH.ProjectMovie\HH.RMS.ProjectMovie.Entity\bin\Debug\HH.RMS.EntityFramework.dll
